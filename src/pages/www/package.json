@@ -1,6 +1,6 @@
 {
   "name": "piral-landing-page",
-  "version": "0.10.9",
+  "version": "0.10.9-gzukula-fetchfix",
   "private": true,
   "description": "The landing page for Piral.",
   "keywords": [

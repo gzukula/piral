@@ -1,6 +1,6 @@
 {
   "name": "piral-base",
-  "version": "0.10.9",
+  "version": "0.10.9-gzukula-fetchfix",
   "description": "The base library for creating a Piral instance.",
   "keywords": [
     "portal",
